@@ -2,7 +2,7 @@
 
 A simple Instagram clone using HTML and CSS.
 
-=
+
 
 ## Features
 
